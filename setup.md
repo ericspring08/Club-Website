@@ -1,4 +1,3 @@
-### [Back](index.md)
 # Setup
 
 ## 1. Download Visual Studio Code and Node.js
