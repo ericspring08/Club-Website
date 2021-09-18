@@ -17,6 +17,7 @@
 
 ## 4. Type the command:
     code .
+    
 ### This will open the project in the IDE VSCode which we installed
 
 ## 5. You're all finished!
