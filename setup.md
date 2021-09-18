@@ -2,8 +2,8 @@
 # Setup
 
 ## 1. Download Visual Studio Code and Node.js
-### [VSCode]()
-### [Node.js]()
+### [VSCode](https://code.visualstudio.com/)
+### [Node.js](https://nodejs.org/en/)
 
 ## 2. After installing, go to terminal (mac) or command prompt (windows) and type these line by line:
     cd Desktop
