@@ -13,11 +13,9 @@
 
 ### Your web browser might open up and go to localhost:3000, this means that you completed this step succesfully
 
-## 3. Go to the terminal. Terminate t*he server by doing the keyboard shortcut command-c (mac) or control-c (windows)
+## 3. Go to the terminal. Terminate the server by doing the keyboard shortcut command-c (mac) or control-c (windows)
 
 ## 4. Type the command:
     code .
-    
-### This will open the project in the IDE VSCode which we installed
 
 ## 5. You're all finished!
